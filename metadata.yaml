@@ -1,0 +1,31 @@
+_repo: Os-factos_31656
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunha, J. G. de Barros e (João Gualberto de Barros)
+    aliases:
+    - De Barros e Cunha, J. G. (João Gualberto)
+    - Cunha, João Gualberto de Barros
+    - Barros e Cunha, J. G. de (João Gualberto de)
+    - Cunha, J. G. de Barros e (Joao Gualberto de Barros)
+    deathdate: 1882
+    gutenberg_agent_id: '35384'
+    url: http://www.gutenberg.org/2009/agents/35384
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31656'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Portugal -- Politics and government -- 19th century'
+- !lcsh 'Portugal -- Economic conditions -- 19th century'
+title: Os factos
+url: http://www.gutenberg.org/ebooks/31656
